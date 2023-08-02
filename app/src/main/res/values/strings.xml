@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Golet Madhang</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_list">List Tempat</string>
+    <string name="title_help">Petunjuk</string>
+    <string name="list_tempat">List Tempat Makanan</string>
+    <string name="beranda">Makan dimana hari ini?</string>
+    <string name="cant_get_permission">Tidak mendapatkan Permission</string>
+    <string name="nilai">Nilai</string>
+    <string name="jarak">Jarak</string>
+    <string name="kontak">KONTAK</string>
+    <string name="tempat_makan">Tempat Makan</string>
+    <string name="tunjukan_lokasi">TUNJUKAN LOKASI</string>
+    <string name="google_maps_is_not_available">Tidak ada aplikasi Google map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
